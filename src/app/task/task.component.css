@@ -1,0 +1,45 @@
+.container{
+    width: 400px;
+    height: auto;
+
+}
+.d1{
+    height:100px;
+    width:394px;
+    border-style:solid;
+    
+}
+.d2{
+    height:200px;
+    width:400px;
+    
+}
+
+
+.d21{
+    height:100%;
+    width:48%;
+    float:left;
+    border-style:solid;
+}
+
+.d22{
+    height:100%;
+    width:49%;
+    float:left;
+    border-style:solid;
+}
+.h4{
+    padding-left: 160px;
+    padding-top: 20px;
+}
+.h41{
+    padding-left: 50px;
+    padding-top: 40px;
+}
+.h42{
+    padding-left: 50px;
+    padding-top: 40px;
+}
+
+
